@@ -1,4 +1,4 @@
-# Silicon Labs firmware builder repository
+# Silicon Labs firmware builder -- repository
 
 This repository contains Dockerfiles and GitHub actions that build Silicon Labs firmware. It also hosts unofficial Zigbee Coordinator and Thread (OpenThread) firmware builds that community members can experiment with at your own risk.
 
