@@ -5,6 +5,7 @@ filename: "{manifest_name}_{ot_rcp_version.split('/')[-1]}_gsdk_{sdk_version}_{f
 sdk: "simplicity_sdk:2024.6.3"
 toolchain: "12.2.1.20221205"
 
+
 gbl:
   fw_type: openthread_rcp
   ot_rcp_version: dynamic
